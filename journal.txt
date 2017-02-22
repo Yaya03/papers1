@@ -1,6 +1,7 @@
 
 Author: 
 ak 
+Paul Bowyer 
 
 Title: 
 Fungal diseases 
